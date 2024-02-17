@@ -1,6 +1,4 @@
-/* eslint-disable playwright/expect-expect */
-/* eslint-disable linebreak-style */
-// @ts-check
+
 const { expect } = require('@playwright/test');
 const { test } = require('../fixture');
 
